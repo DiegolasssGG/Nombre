@@ -1,3 +1,7 @@
 hola buenos días
 asdfasdfjoi
+<<<<<<< HEAD
 linea 
+=======
+linea 1
+>>>>>>> 34ef50d4f1402ef01349bed55e3b673438e1d26c
